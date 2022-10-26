@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="SHRM01702.GdLoader"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"  xmlns:Sac="clr-namespace:SsAppCommon;assembly=SsAppCommon"  Sac:LclForm.ProgramCode="SHRM01702">
+    <telerik:RadBusyIndicator x:Name="busyIndicator" BusyContent="Loading data...." IsBusy="True">
+        <Grid x:Name="LayoutRoot" Background="White"></Grid>
+    </telerik:RadBusyIndicator>
+</UserControl>

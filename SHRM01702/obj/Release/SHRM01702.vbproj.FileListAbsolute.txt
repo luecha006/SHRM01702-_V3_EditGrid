@@ -1,0 +1,122 @@
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SHRM01702.dll
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SHRM01702.pdb
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SHRM01702.xml
+D:\HRVietnam2020\SsHrSilverlight5\Xap\AppManifest.xaml
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SsAppCommon.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SsAppCommon.Dto.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SsCommon.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SsSilverlight.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.ComponentModel.Composition.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.ComponentModel.Composition.Initialization.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.ComponentModel.DataAnnotations.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Data.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Data.Input.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Input.Toolkit.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Layout.Toolkit.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Navigation.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.Internals.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Windows.Data.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Charting.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.GridView.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Input.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Navigation.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Controls.RibbonBar.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Data.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Themes.Office_Silver.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\Telerik.Windows.Zip.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\System.Xml.Linq.zip
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SHRM01702.xap
+D:\HRVietnam2020\SsHrSilverlight5\Xap\SHRM01702TestPage.html
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\App.g.i.vb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\DetailView.g.i.vb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.g.resources
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\XapCacheFile.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\GdLoader.g.i.vb
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SHRM01702.dll
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SHRM01702.pdb
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SHRM01702.xml
+D:\HRVietnam2021\SsHrSilverlight5\Xap\AppManifest.xaml
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SsAppCommon.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SsAppCommon.Dto.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SsCommon.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SsSilverlight.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.ComponentModel.Composition.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.ComponentModel.Composition.Initialization.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.ComponentModel.DataAnnotations.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Data.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Data.Input.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Input.Toolkit.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Layout.Toolkit.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Navigation.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.Internals.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Windows.Data.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Charting.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.GridView.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Input.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Navigation.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Controls.RibbonBar.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Data.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Themes.Office_Silver.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\Telerik.Windows.Zip.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\System.Xml.Linq.zip
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SHRM01702.xap
+D:\HRVietnam2021\SsHrSilverlight5\Xap\SHRM01702TestPage.html
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.vbprojResolveAssemblyReference.cache
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\App.g.i.vb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\DetailView.g.i.vb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\GdLoader.g.i.vb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.g.resources
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\XapCacheFile.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SHRM01702.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SHRM01702.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SHRM01702.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\AppManifest.xaml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SsAppCommon.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SsAppCommon.Dto.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SsCommon.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SsSilverlight.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.ComponentModel.Composition.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.ComponentModel.Composition.Initialization.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.ComponentModel.DataAnnotations.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Data.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Data.Input.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Input.Toolkit.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Layout.Toolkit.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Navigation.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Controls.Toolkit.Internals.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Windows.Data.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Charting.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.GridView.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Input.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.Navigation.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Controls.RibbonBar.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Data.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Themes.Office_Silver.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\Telerik.Windows.Zip.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\System.Xml.Linq.zip
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SHRM01702.xap
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Xap\SHRM01702TestPage.html
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.vbprojResolveAssemblyReference.cache
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\App.g.i.vb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\DetailView.g.i.vb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\GdLoader.g.i.vb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.g.resources
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\SHRM01702.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702\obj\Release\XapCacheFile.xml

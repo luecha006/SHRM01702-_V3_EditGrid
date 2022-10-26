@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SsCommon" />
+  <xs:complexType name="Pyorganize">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/SsCommon" base="q1:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Accessdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Costcenter" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Createuser" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Engdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Idtax" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Levelid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Leveltype" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Localdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Orgcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Orgcodeview" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Parentrid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Periodmastid" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Programcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Relateid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Socialwlfacc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Socialwlfname" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Socialwlfseq" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Treeno" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Pyorganize" nillable="true" type="tns:Pyorganize" />
+  <xs:complexType name="Pyperiodmaster">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/SsCommon" base="q2:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Accessdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Createdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Createuser" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Engdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Localdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Modifydate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Periodmastid" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodtimes" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Programcode" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Pyperiodmaster" nillable="true" type="tns:Pyperiodmaster" />
+  <xs:complexType name="InterfacetempEe">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/SsCommon" base="q3:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Accountid" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Action" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ActionDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="ActionReason" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Address1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Address2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="AsgnEndDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="AsgnStartDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="BankBranch" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Bankaccount" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Bankcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Birthdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Bonus" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="BusinessUnit" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Calsocialwelf" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Caltaxmethod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CcaCpg" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ChangeAmt" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="ChangePct" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="CompFrequency" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Comprate" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Createdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Createuser" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CurrencyCd" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DeptEntryDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Deptid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Effdt" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Effseq" type="xs:decimal" />
+          <xs:element minOccurs="0" name="EmpMarrystatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplClass" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplRcd" type="xs:decimal" />
+          <xs:element minOccurs="0" name="EmplSex" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplStatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Emplflag" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Emplgroup" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Emplid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Emplidcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ExpectedEndDate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="ExpectedReturnDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FullPartTime" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Grade" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="GradeEntryDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Harmful" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="HireDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="HolidaySchedule" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="HrStatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Incexpamt" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Incexpcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Incexpqty" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Iscompsocialwelf" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Isinterface" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="JobEntryDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="JobIndicator" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Jobcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="JobopenNo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LastDateWorked" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="LastHireDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Location" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LstAsgnStartDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="ManagerLevel" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Modifydate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Nid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OfficerCd" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Paygroup" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Payorgcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Payrollid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PcDateCpg" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="PerOrg" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Percentsocialwelf" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodmastid" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Poitype" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PositionEntryDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="PositionLevel" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PositionNbr" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PosnOvrd" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PosnlevelEntryDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="PreCompany" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Probation" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="ProbationDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="ProbationType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Programcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Rateid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Rateqty" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RegTemp" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Remarks" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReportTo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SalAdminPlan" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Scno" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SetidDept" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SetidJobcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Shift" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SocialBranchCpg" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SocialwelfPrefix" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Socialwelfbefyn" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Socialwelfid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Status" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="StdHours" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="StdHrsFrequency" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Taxid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TerminationDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Workhour" nillable="true" type="xs:decimal" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="InterfacetempEe" nillable="true" type="tns:InterfacetempEe" />
+  <xs:complexType name="ArrayOfPygeneraldt">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pygeneraldt" nillable="true" type="tns:Pygeneraldt" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPygeneraldt" nillable="true" type="tns:ArrayOfPygeneraldt" />
+  <xs:complexType name="Pygeneraldt">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/SsCommon" base="q4:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Accessdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Codeid" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Createuser" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Dtcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Engdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Gdcode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Localdescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Programcode" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Pygeneraldt" nillable="true" type="tns:Pygeneraldt" />
+  <xs:complexType name="Pyperiod">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://schemas.datacontract.org/2004/07/SsCommon" base="q5:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Accessdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Createuser" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Lastperiod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Lastperiodmonth" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Perioddays" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodenddate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Periodid" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodmastid" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodmonth" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Periodno" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodpaydate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Periodstartdate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Periodstatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Periodtime" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="Periodyear" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Programcode" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Pyperiod" nillable="true" type="tns:Pyperiod" />
+  <xs:complexType name="ArrayOfPyorganize">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pyorganize" nillable="true" type="tns:Pyorganize" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPyorganize" nillable="true" type="tns:ArrayOfPyorganize" />
+</xs:schema>

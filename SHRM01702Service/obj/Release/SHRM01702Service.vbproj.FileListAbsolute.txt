@@ -1,0 +1,48 @@
+C:\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.dll
+C:\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.pdb
+C:\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.Resources.resources
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbproj.GenerateResource.Cache
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.pdb
+C:\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.dll.config
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\HRVietnam_2019\SsHrSilverlight5\Service\SHRM01702Service.dll.config
+D:\HRVietnam_2019\SsHrSilverlight5\Service\SHRM01702Service.dll
+D:\HRVietnam_2019\SsHrSilverlight5\Service\SHRM01702Service.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\Service\SHRM01702Service.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.Resources.resources
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.pdb
+D:\HRVietnam2020\SsHrSilverlight5\Service\SHRM01702Service.dll.config
+D:\HRVietnam2020\SsHrSilverlight5\Service\SHRM01702Service.dll
+D:\HRVietnam2020\SsHrSilverlight5\Service\SHRM01702Service.pdb
+D:\HRVietnam2020\SsHrSilverlight5\Service\SHRM01702Service.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.Resources.resources
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.pdb
+D:\HRVietnam2021\SsHrSilverlight5\Service\SHRM01702Service.dll.config
+D:\HRVietnam2021\SsHrSilverlight5\Service\SHRM01702Service.dll
+D:\HRVietnam2021\SsHrSilverlight5\Service\SHRM01702Service.pdb
+D:\HRVietnam2021\SsHrSilverlight5\Service\SHRM01702Service.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.Resources.resources
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.dll.config
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\Service\SHRM01702Service.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbprojResolveAssemblyReference.cache
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.Resources.resources
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.vbproj.GenerateResource.Cache
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Release\SHRM01702Service.pdb

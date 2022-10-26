@@ -1,0 +1,31 @@
+﻿<configuration>
+    <system.serviceModel>
+      <bindings>
+        <customBinding>
+          <binding name="CustomBinding_SsAppCommonService">
+            <binaryMessageEncoding />
+            <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+          </binding>
+          <binding name="CustomBinding_SsHrCommonService">
+            <binaryMessageEncoding />
+            <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+          </binding>
+          <binding name="CustomBinding_SHRM01702Service" receiveTimeout="00:30:00" sendTimeout="00:30:00" openTimeout="00:30:00" closeTimeout="00:30:00">
+            <binaryMessageEncoding />
+            <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+          </binding>
+        </customBinding>
+      </bindings>
+      <client>
+        <endpoint address="http://localhost:1516/SsAppCommonService.svc"
+          binding="customBinding" bindingConfiguration="CustomBinding_SsAppCommonService"
+          contract="SsAppCommonRef.SsAppCommonService" name="CustomBinding_SsAppCommonService" />
+        <endpoint address="http://localhost:1516/SsHrCommonService.svc"
+          binding="customBinding" bindingConfiguration="CustomBinding_SsHrCommonService"
+          contract="SsHrCommonRef.SsHrCommonService" name="CustomBinding_SsHrCommonService" />
+        <endpoint address="../SHRM01702Service.svc" binding="customBinding"
+          bindingConfiguration="CustomBinding_SHRM01702Service" contract="SHRM01702Ref.SHRM01702Service"
+          name="CustomBinding_SHRM01702Service" />
+      </client>
+    </system.serviceModel>
+</configuration>

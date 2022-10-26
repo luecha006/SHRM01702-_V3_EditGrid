@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SsCommon" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="Search">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q1:ServiceParam" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_cri" nillable="true" type="q2:ModelCriteriaList" />
+        <xs:element minOccurs="0" name="pathServer" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SearchResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="SearchResult" nillable="true" type="q3:ServiceResultOfModelCountRecordModelInterfacetempEeORFfCLJ7" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SearchTest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q4:ServiceParam" />
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_cri" nillable="true" type="q5:ModelCriteriaList" />
+        <xs:element minOccurs="0" name="pathServer" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SearchTestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="SearchTestResult" nillable="true" type="q6:ServiceResultOfModelCountRecordModelInterfacetempEeORFfCLJ7" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q7:ServiceParam" />
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_criteria" nillable="true" type="q8:ModelCriteriaList" />
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q9:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="InsertDataResult" type="xs:boolean" />
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q10:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGdDetails">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="gdCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGdDetailsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="GetGdDetailsResult" nillable="true" type="q11:ArrayOfPygeneraldt" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayrollPeriod">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PerIodMastId" type="xs:int" />
+        <xs:element minOccurs="0" name="Periodtime" type="xs:int" />
+        <xs:element minOccurs="0" name="PYear" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PMonth" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayrollPeriodResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="FindPayrollPeriodResult" nillable="true" type="q12:Pyperiod" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayrollPeriodMast">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="_param" nillable="true" type="q13:ServiceParam" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayrollPeriodMastResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="FindPayrollPeriodMastResult" nillable="true" type="q14:ArrayOfModelPyperiodmaster" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPyorganize">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="_param" nillable="true" type="q15:ServiceParam" />
+        <xs:element minOccurs="0" name="IsSmartPay" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="company" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPyorganizeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="FindPyorganizeResult" nillable="true" type="q16:ArrayOfPyorganize" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindDefaultPeriodAndOrg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PerIodMastId" type="xs:int" />
+        <xs:element minOccurs="0" name="IsSmartPay" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindDefaultPeriodAndOrgResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="FindDefaultPeriodAndOrgResult" nillable="true" type="q17:Model" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GenerateText">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q18:ServiceParam" />
+        <xs:element xmlns:q19="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_criteria" nillable="true" type="q19:ModelCriteriaList" />
+        <xs:element minOccurs="0" name="formatdt" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GenerateTextResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q20="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="GenerateTextResult" nillable="true" type="q20:ServiceResultOfArrayOfKeyValueOfstringbase64Binarystring9_SUPjmKX" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PrintExcel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q21="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q21:ServiceParam" />
+        <xs:element xmlns:q22="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_cri" nillable="true" type="q22:ModelCriteriaList" />
+        <xs:element xmlns:q23="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="headers" nillable="true" type="q23:ArrayOfKeyValueOfstringstring" />
+        <xs:element xmlns:q24="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q24:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PrintExcelResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PrintExcelResult" nillable="true" type="xs:base64Binary" />
+        <xs:element xmlns:q25="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q25:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GenerateTextInToServer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q26:ServiceParam" />
+        <xs:element xmlns:q27="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_criteria" nillable="true" type="q27:ModelCriteriaList" />
+        <xs:element minOccurs="0" name="formatdt" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="pathServer" nillable="true" type="xs:string" />
+        <xs:element xmlns:q28="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q28:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GenerateTextInToServerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GenerateTextInToServerResult" nillable="true" type="xs:string" />
+        <xs:element xmlns:q29="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q29:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayBranch">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q30="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q30:ServiceParam" />
+        <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Org" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IsSmartPay" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayBranchResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q31="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="FindPayBranchResult" nillable="true" type="q31:ArrayOfModelComboLst" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayOR">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q32="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q32:ServiceParam" />
+        <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Org" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Branch" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IsSmartPay" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayORResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q33="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="FindPayORResult" nillable="true" type="q33:ArrayOfModelComboLst" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewGenerateText">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q34="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="param" nillable="true" type="q34:ServiceParam" />
+        <xs:element xmlns:q35="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="_criteria" nillable="true" type="q35:ModelCriteriaList" />
+        <xs:element xmlns:q36="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q36:ArrayOfModelInterfacetempEe" />
+        <xs:element minOccurs="0" name="formatdt" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="pathServer" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewGenerateTextResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q37="http://schemas.datacontract.org/2004/07/SsCommon" minOccurs="0" name="NewGenerateTextResult" nillable="true" type="q37:ServiceResultOfstringstring" />
+        <xs:element xmlns:q38="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="EmplidList" nillable="true" type="q38:ArrayOfModelInterfacetempEe" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

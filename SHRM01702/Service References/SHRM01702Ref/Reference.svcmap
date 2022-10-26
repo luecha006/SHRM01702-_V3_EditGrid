@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b36ebaf7-cd60-4d09-84d5-44bfeb4b8b10" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1516/SHRM01702Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SHRM01702Service.xsd" MetadataType="Schema" ID="a2f8d246-5eb9-4fbd-bece-63d9e742c13d" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="SHRM01702Service1.xsd" MetadataType="Schema" ID="8ad2d224-3e37-492e-b7d4-b1ccb345b627" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd5" />
+    <MetadataFile FileName="SHRM01702Service.disco" MetadataType="Disco" ID="6197ae79-989a-4759-a081-51c9c1a9be85" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?disco" />
+    <MetadataFile FileName="SHRM01702Service2.xsd" MetadataType="Schema" ID="b87b3087-fbc3-461a-a58f-3eea438755c1" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="SHRM01702Service3.xsd" MetadataType="Schema" ID="2a2eb49c-0ccb-4a39-92a4-d66e619912ad" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd4" />
+    <MetadataFile FileName="SHRM01702Service.wsdl" MetadataType="Wsdl" ID="90c606fd-5347-47e5-a08a-211d46ac9917" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="SHRM01702Service4.xsd" MetadataType="Schema" ID="c1118d86-f3db-4ea1-9f47-bd13edbc6111" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="SHRM01702Service1.wsdl" MetadataType="Wsdl" ID="d254d673-5d9f-47db-8e5c-1c0cb21dd4f0" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?wsdl" />
+    <MetadataFile FileName="SHRM01702Service5.xsd" MetadataType="Schema" ID="d5171d87-a9e2-4a88-be5e-4676619528f4" SourceId="1" SourceUrl="http://localhost:1516/SHRM01702Service.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

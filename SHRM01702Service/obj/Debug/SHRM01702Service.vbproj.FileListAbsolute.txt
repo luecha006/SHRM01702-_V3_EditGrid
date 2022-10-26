@@ -1,0 +1,231 @@
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\dbConnector.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\System.ServiceModel.PollingDuplex.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\System.ServiceModel.PollingDuplex.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\ru\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+C:\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\dbConnector.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\HRVietnam_2019\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\dbConnector.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+D:\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+D:\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+D:\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+D:\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+D:\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+D:\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+D:\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.pdb
+D:\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.xml
+D:\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+D:\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\dbConnector.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.pdb
+D:\HRVietnam2020\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\dbConnector.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsAppCommonWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCommonWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsCrystalReportWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHrCommonWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.pdb
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\bin\SsHelperWeb.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\HRVietnam2021\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+C:\Working Area\SMARTSoft_HR\02_Engineering\04_Construct & Unit Test\XBapApp\SsHrSilverlight5\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\CPF\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\CPF\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\CPF\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\CPF\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\CPF\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\CPF\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\CPF\dev\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\CPF\dev\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\ChilkatDotNet4.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\Newtonsoft.Json.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\System.Net.Http.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\System.Net.Http.WebRequest.dll
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\Newtonsoft.Json.pdb
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\Newtonsoft.Json.xml
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\System.Net.Http.xml
+D:\CPF\dev\SHRM01702\SHRM01702Service\bin\System.Net.Http.WebRequest.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\ChilkatDotNet4.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\Newtonsoft.Json.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\System.Net.Http.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\System.Net.Http.WebRequest.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\Newtonsoft.Json.pdb
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\Newtonsoft.Json.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\System.Net.Http.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\System.Net.Http.WebRequest.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702 _V2_UnZipBase64\SHRM01702Service\bin\Ionic.Zip.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\SHRM01702Service.dll.config
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\ChilkatDotNet4.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\Ionic.Zip.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\Newtonsoft.Json.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\Oracle.DataAccess.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\System.Net.Http.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\System.Net.Http.WebRequest.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\Newtonsoft.Json.pdb
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\Newtonsoft.Json.xml
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\System.Net.Http.xml
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\bin\System.Net.Http.WebRequest.xml
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.Resources.resources
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.vbproj.GenerateResource.Cache
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.dll
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.xml
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.pdb
+D:\CPF\dev\SHRM01702 _V3_EditGrid\SHRM01702Service\obj\Debug\SHRM01702Service.vbprojResolveAssemblyReference.cache

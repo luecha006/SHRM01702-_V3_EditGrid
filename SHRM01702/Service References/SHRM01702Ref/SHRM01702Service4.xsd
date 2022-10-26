@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SsCommon" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SsCommon" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" />
+  <xs:complexType name="ServiceParam">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CriteriaField" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CriteriaValue" nillable="true" type="xs:anyType" />
+      <xs:element minOccurs="0" name="CurrentPage" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="CustomPageSize" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Lang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LocalLang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProgramCode" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="SelectFields" nillable="true" type="q1:ArrayOfstring" />
+      <xs:element minOccurs="0" name="ServiceFlag1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SetId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceParam" nillable="true" type="tns:ServiceParam" />
+  <xs:complexType name="BaseDto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="EntityState" type="tns:EntityStateLocal" />
+      <xs:element minOccurs="0" name="IsSelected" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BaseDto" nillable="true" type="tns:BaseDto" />
+  <xs:simpleType name="EntityStateLocal">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Modified">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">16</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Detached" />
+      <xs:enumeration value="Unchanged" />
+      <xs:enumeration value="Added">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">4</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Deleted">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">8</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="EntityStateLocal" nillable="true" type="tns:EntityStateLocal" />
+  <xs:complexType name="ServiceResultOfModelCountRecordModelInterfacetempEeORFfCLJ7">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="ServiceResultOf{0}{1}{#}" Namespace="http://schemas.datacontract.org/2004/07/SsCommon" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ModelCountRecord" Namespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" />
+          <GenericParameter Name="ModelInterfacetempEe" Namespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IsValid" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="Result" nillable="true" type="q2:ModelCountRecord" />
+      <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" minOccurs="0" name="ResultLst" nillable="true" type="q3:ArrayOfModelInterfacetempEe" />
+      <xs:element minOccurs="0" name="Statement" nillable="true" type="xs:string" />
+      <xs:element xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ValidateMessage" nillable="true" type="q4:ArrayOfKeyValueOfstringstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceResultOfModelCountRecordModelInterfacetempEeORFfCLJ7" nillable="true" type="tns:ServiceResultOfModelCountRecordModelInterfacetempEeORFfCLJ7" />
+  <xs:complexType name="ServiceResultOfArrayOfKeyValueOfstringbase64Binarystring9_SUPjmKX">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="ServiceResultOf{0}{1}{#}" Namespace="http://schemas.datacontract.org/2004/07/SsCommon" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ArrayOfKeyValueOf{0}{1}{#}" Namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <GenericParameter Name="string" Namespace="http://www.w3.org/2001/XMLSchema" />
+            <GenericParameter Name="base64Binary" Namespace="http://www.w3.org/2001/XMLSchema" />
+          </GenericParameter>
+          <GenericParameter Name="string" Namespace="http://www.w3.org/2001/XMLSchema" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IsValid" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q5="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Result" nillable="true" type="q5:ArrayOfKeyValueOfstringbase64Binary" />
+      <xs:element xmlns:q6="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ResultLst" nillable="true" type="q6:ArrayOfstring" />
+      <xs:element minOccurs="0" name="Statement" nillable="true" type="xs:string" />
+      <xs:element xmlns:q7="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ValidateMessage" nillable="true" type="q7:ArrayOfKeyValueOfstringstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceResultOfArrayOfKeyValueOfstringbase64Binarystring9_SUPjmKX" nillable="true" type="tns:ServiceResultOfArrayOfKeyValueOfstringbase64Binarystring9_SUPjmKX" />
+  <xs:complexType name="ServiceResultOfstringstring">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="ServiceResultOf{0}{1}{#}" Namespace="http://schemas.datacontract.org/2004/07/SsCommon" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="string" Namespace="http://www.w3.org/2001/XMLSchema" />
+          <GenericParameter Name="string" Namespace="http://www.w3.org/2001/XMLSchema" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IsValid" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Result" nillable="true" type="xs:string" />
+      <xs:element xmlns:q8="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ResultLst" nillable="true" type="q8:ArrayOfstring" />
+      <xs:element minOccurs="0" name="Statement" nillable="true" type="xs:string" />
+      <xs:element xmlns:q9="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ValidateMessage" nillable="true" type="q9:ArrayOfKeyValueOfstringstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceResultOfstringstring" nillable="true" type="tns:ServiceResultOfstringstring" />
+</xs:schema>

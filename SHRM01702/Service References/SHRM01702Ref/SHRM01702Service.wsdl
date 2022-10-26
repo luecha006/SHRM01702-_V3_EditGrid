@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="/Imports">
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd0" />
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SsCommon" />
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" />
+      <xsd:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="SHRM01702Service_Search_InputMessage">
+    <wsdl:part name="parameters" element="Search" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_Search_OutputMessage">
+    <wsdl:part name="parameters" element="SearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_SearchTest_InputMessage">
+    <wsdl:part name="parameters" element="SearchTest" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_SearchTest_OutputMessage">
+    <wsdl:part name="parameters" element="SearchTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_InsertData_InputMessage">
+    <wsdl:part name="parameters" element="InsertData" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_InsertData_OutputMessage">
+    <wsdl:part name="parameters" element="InsertDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GetGdDetails_InputMessage">
+    <wsdl:part name="parameters" element="GetGdDetails" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GetGdDetails_OutputMessage">
+    <wsdl:part name="parameters" element="GetGdDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayrollPeriod_InputMessage">
+    <wsdl:part name="parameters" element="FindPayrollPeriod" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayrollPeriod_OutputMessage">
+    <wsdl:part name="parameters" element="FindPayrollPeriodResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayrollPeriodMast_InputMessage">
+    <wsdl:part name="parameters" element="FindPayrollPeriodMast" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayrollPeriodMast_OutputMessage">
+    <wsdl:part name="parameters" element="FindPayrollPeriodMastResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPyorganize_InputMessage">
+    <wsdl:part name="parameters" element="FindPyorganize" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPyorganize_OutputMessage">
+    <wsdl:part name="parameters" element="FindPyorganizeResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindDefaultPeriodAndOrg_InputMessage">
+    <wsdl:part name="parameters" element="FindDefaultPeriodAndOrg" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindDefaultPeriodAndOrg_OutputMessage">
+    <wsdl:part name="parameters" element="FindDefaultPeriodAndOrgResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GenerateText_InputMessage">
+    <wsdl:part name="parameters" element="GenerateText" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GenerateText_OutputMessage">
+    <wsdl:part name="parameters" element="GenerateTextResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_PrintExcel_InputMessage">
+    <wsdl:part name="parameters" element="PrintExcel" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_PrintExcel_OutputMessage">
+    <wsdl:part name="parameters" element="PrintExcelResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GenerateTextInToServer_InputMessage">
+    <wsdl:part name="parameters" element="GenerateTextInToServer" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_GenerateTextInToServer_OutputMessage">
+    <wsdl:part name="parameters" element="GenerateTextInToServerResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayBranch_InputMessage">
+    <wsdl:part name="parameters" element="FindPayBranch" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayBranch_OutputMessage">
+    <wsdl:part name="parameters" element="FindPayBranchResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayOR_InputMessage">
+    <wsdl:part name="parameters" element="FindPayOR" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_FindPayOR_OutputMessage">
+    <wsdl:part name="parameters" element="FindPayORResponse" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_NewGenerateText_InputMessage">
+    <wsdl:part name="parameters" element="NewGenerateText" />
+  </wsdl:message>
+  <wsdl:message name="SHRM01702Service_NewGenerateText_OutputMessage">
+    <wsdl:part name="parameters" element="NewGenerateTextResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SHRM01702Service">
+    <wsdl:operation name="Search">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/Search" message="SHRM01702Service_Search_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/SearchResponse" message="SHRM01702Service_Search_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchTest">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/SearchTest" message="SHRM01702Service_SearchTest_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/SearchTestResponse" message="SHRM01702Service_SearchTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertData">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/InsertData" message="SHRM01702Service_InsertData_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/InsertDataResponse" message="SHRM01702Service_InsertData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGdDetails">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/GetGdDetails" message="SHRM01702Service_GetGdDetails_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/GetGdDetailsResponse" message="SHRM01702Service_GetGdDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayrollPeriod">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindPayrollPeriod" message="SHRM01702Service_FindPayrollPeriod_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindPayrollPeriodResponse" message="SHRM01702Service_FindPayrollPeriod_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayrollPeriodMast">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindPayrollPeriodMast" message="SHRM01702Service_FindPayrollPeriodMast_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindPayrollPeriodMastResponse" message="SHRM01702Service_FindPayrollPeriodMast_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPyorganize">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindPyorganize" message="SHRM01702Service_FindPyorganize_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindPyorganizeResponse" message="SHRM01702Service_FindPyorganize_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindDefaultPeriodAndOrg">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindDefaultPeriodAndOrg" message="SHRM01702Service_FindDefaultPeriodAndOrg_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindDefaultPeriodAndOrgResponse" message="SHRM01702Service_FindDefaultPeriodAndOrg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerateText">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/GenerateText" message="SHRM01702Service_GenerateText_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/GenerateTextResponse" message="SHRM01702Service_GenerateText_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PrintExcel">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/PrintExcel" message="SHRM01702Service_PrintExcel_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/PrintExcelResponse" message="SHRM01702Service_PrintExcel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerateTextInToServer">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/GenerateTextInToServer" message="SHRM01702Service_GenerateTextInToServer_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/GenerateTextInToServerResponse" message="SHRM01702Service_GenerateTextInToServer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayBranch">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindPayBranch" message="SHRM01702Service_FindPayBranch_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindPayBranchResponse" message="SHRM01702Service_FindPayBranch_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayOR">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/FindPayOR" message="SHRM01702Service_FindPayOR_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/FindPayORResponse" message="SHRM01702Service_FindPayOR_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="NewGenerateText">
+      <wsdl:input wsaw:Action="urn:SHRM01702Service/NewGenerateText" message="SHRM01702Service_NewGenerateText_InputMessage" />
+      <wsdl:output wsaw:Action="urn:SHRM01702Service/NewGenerateTextResponse" message="SHRM01702Service_NewGenerateText_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

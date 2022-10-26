@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SHRM01702
+</name>
+</assembly>
+<members>
+<member name="M:SHRM01702.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SHRM01702.DetailView.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SHRM01702.GdLoader.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SHRM01702Service.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" />
+  <xs:import schemaLocation="http://localhost:1516/SHRM01702Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SsCommon" />
+  <xs:complexType name="ModelCriteriaList">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/SsCommon" base="q1:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Company" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplClass" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EmplFlag" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Emplid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EndDate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Managerlvl" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Month" nillable="true" type="xs:string" />
+          <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="Org" nillable="true" type="q2:Pyorganize" />
+          <xs:element minOccurs="0" name="PayBranch" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PayOrg" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PeriodMastId" nillable="true" type="tns:ModelPyperiodmaster" />
+          <xs:element minOccurs="0" name="PeriodTime" nillable="true" type="xs:int" />
+          <xs:element minOccurs="0" name="Periodid" nillable="true" type="xs:decimal" />
+          <xs:element minOccurs="0" name="StartDate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Year" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="chkAll" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ModelCriteriaList" nillable="true" type="tns:ModelCriteriaList" />
+  <xs:complexType name="ModelPyperiodmaster">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" base="q3:Pyperiodmaster">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ModelPyperiodmaster" nillable="true" type="tns:ModelPyperiodmaster" />
+  <xs:complexType name="ModelCountRecord">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/SsCommon" base="q4:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CntMaster" type="xs:int" />
+          <xs:element minOccurs="0" name="CntTran" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ModelCountRecord" nillable="true" type="tns:ModelCountRecord" />
+  <xs:complexType name="ArrayOfModelInterfacetempEe">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ModelInterfacetempEe" nillable="true" type="tns:ModelInterfacetempEe" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfModelInterfacetempEe" nillable="true" type="tns:ArrayOfModelInterfacetempEe" />
+  <xs:complexType name="ModelInterfacetempEe">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" base="q5:InterfacetempEe">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DbStatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DeptName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Employeename" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MarryStatusName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PositionName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RowColor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SatWork" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SelEmpl" type="xs:boolean" />
+          <xs:element minOccurs="0" name="_IsEnable" type="xs:boolean" />
+          <xs:element minOccurs="0" name="chk" type="xs:boolean" />
+          <xs:element minOccurs="0" name="t_Bac_BankAccount" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="t_Idno_EmpId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="t_Idno_PayrollId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="t_Mar" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="t_Name" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ModelInterfacetempEe" nillable="true" type="tns:ModelInterfacetempEe" />
+  <xs:complexType name="ArrayOfModelPyperiodmaster">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ModelPyperiodmaster" nillable="true" type="tns:ModelPyperiodmaster" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfModelPyperiodmaster" nillable="true" type="tns:ArrayOfModelPyperiodmaster" />
+  <xs:complexType name="Model">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q6="http://schemas.datacontract.org/2004/07/SsCommon" base="q6:BaseDto">
+        <xs:sequence>
+          <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="OrgLst" nillable="true" type="q7:ArrayOfPyorganize" />
+          <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/SsHrCommon.DTO" minOccurs="0" name="Pyperiod" nillable="true" type="q8:Pyperiod" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Model" nillable="true" type="tns:Model" />
+  <xs:complexType name="ArrayOfModelComboLst">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ModelComboLst" nillable="true" type="tns:ModelComboLst" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfModelComboLst" nillable="true" type="tns:ArrayOfModelComboLst" />
+  <xs:complexType name="ModelComboLst">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q9="http://schemas.datacontract.org/2004/07/SsCommon" base="q9:BaseDto">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="key" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ModelComboLst" nillable="true" type="tns:ModelComboLst" />
+</xs:schema>
